@@ -1,0 +1,12 @@
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\bin\Debug\PracticeApp2.exe.config
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\bin\Debug\PracticeApp2.exe
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\bin\Debug\PracticeApp2.pdb
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\obj\Debug\PracticeApp2.csproj.AssemblyReference.cache
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\obj\Debug\PracticeApp2.csproj.CoreCompileInputs.cache
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\obj\Debug\PracticeApp2.exe
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\obj\Debug\PracticeApp2.pdb
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\bin\Debug\PracticeApp.exe
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\bin\Debug\PracticeApp.pdb
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\bin\Debug\PracticeApp.exe.config
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\obj\Debug\PracticeApp2.exe.config
+C:\Users\Aryan.Kumar\source\repos\PracticeApp\PracticeApp2\obj\Debug\Practice.B307C072.Up2Date
