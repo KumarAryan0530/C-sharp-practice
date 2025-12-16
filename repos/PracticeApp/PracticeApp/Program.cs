@@ -81,13 +81,20 @@ namespace PracticeApp
         //    obj.triangle();
         //    obj.Display();
         //}
+        //static void Main(String[] args)
+        //{
+        //    AccessSpecifiers obj = new AccessSpecifiers();
+        //    obj.Fun5();
+        //    obj.Fun4();
+        //    obj.Fun3();
+
+        //}
         static void Main(String[] args)
         {
-            AccessSpecifiers obj = new AccessSpecifiers();
-            obj.Fun5();
-            obj.Fun4();
-            obj.Fun3();
-
+           IFirst obj = new InterfaceImplement();
+            obj.fun1();
+            obj.fun2();
+    
         }
     }
 }
